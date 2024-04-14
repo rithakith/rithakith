@@ -6,7 +6,7 @@
 
 <li> You can hit me up at 📬:<br>
    &emsp;&emsp; Gmail: ritharakithmanthie@gmail.com<br>
-   &emsp;&emsp; LinkedIn: [Let's connect!](https://www.linkedin.com/in/ritharak/)
+   &emsp;&emsp; LinkedIn: <a href="https://www.linkedin.com/in/ritharak/"> https://www.linkedin.com/in/ritharak/</a>
 </li>
 <li>And when I'm not coding, you'll find me indulging in some anime or scrolling Instagram reels.🎥😋 </li>
 
