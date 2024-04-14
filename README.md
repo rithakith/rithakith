@@ -33,10 +33,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
 </p>
 
-## Most used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithakith&layout=compact&theme=prussian&hide_border=true)
 
-## Github Status
+
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=rithakith&show_icons=true&theme=prussian&hide_border=true)
 <!---
 rithakith/rithakith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
