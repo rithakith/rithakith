@@ -5,7 +5,7 @@
 <li>These days, I'm diving deep into BackEnd development using the MERN stack. 💻</li>
 
 <li> You can hit me up at 📬:<br>
-   &emsp;&emsp; Gmail: <a href=mailto:"ritharakithmanthie@gmail.com">ritharaedirisinghe@gmail.com<br>
+   &emsp;&emsp; Gmail: <a href=mailto:"ritharakithmanthie@gmail.com">ritharaedirisinghe@gmail.com</a><br>
    &emsp;&emsp; LinkedIn: <a href="https://www.linkedin.com/in/ritharak/"> https://www.linkedin.com/in/ritharak/</a>
 </li>
 <li>And when I'm not coding, you'll find me indulging in some anime or scrolling Instagram reels.🎥😋 </li>
