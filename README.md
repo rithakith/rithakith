@@ -36,9 +36,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithakith&layout=compact&theme=prussian&hide_border=true)
 
+https://streak-stats.demolab.com/?user=rithakith&theme=dark
+<!---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=rithakith&show_icons=true&theme=prussian&hide_border=true)
-<!---
+
 rithakith/rithakith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Hi, I’m Rithara Kithmanthie. I don't have any big goals for the time being. If someone says something is difficult, that's exactly what I'm gonna try out next 
