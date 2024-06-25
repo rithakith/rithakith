@@ -33,5 +33,5 @@
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=rithakith&show_icons=true&theme=prussian&hide_border=true)
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api?username=rithakith&show_icons=true&theme=prussian&hide_border=true)--->
