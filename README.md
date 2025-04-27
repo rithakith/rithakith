@@ -5,9 +5,12 @@
 <li>These days, I'm diving deep into BackEnd development using the MERN stack. 💻</li>
 
 <li> You can hit me up at 📬:<br>
-   &emsp;&emsp; Gmail: <a href=mailto:"ritharakithmanthie@gmail.com">ritharaedirisinghe@gmail.com</a><br>
-   &emsp;&emsp; LinkedIn: <a href="https://www.linkedin.com/in/ritharak/"> https://www.linkedin.com/in/ritharak/</a>
+   &emsp;&emsp; Gmail: <a href="mailto:ritharakithmanthie@gmail.com">ritharakithmanthie@gmail.com</a><br>
+   &emsp;&emsp; LinkedIn: <a href="https://www.linkedin.com/in/ritharak/">https://www.linkedin.com/in/ritharak/</a><br>
+   &emsp;&emsp; Portfolio: <a href="https://rithara.dev/">https://rithara.dev/</a><br>
+   &emsp;&emsp; Medium: <a href="https://medium.com/@ritharaedirisinghe">https://medium.com/@ritharaedirisinghe</a>
 </li>
+
 <li>And when I'm not coding, you'll find me indulging in some anime or scrolling Instagram reels.🎥😋 </li>
 
 ## 🔧 Technologies & Tools
